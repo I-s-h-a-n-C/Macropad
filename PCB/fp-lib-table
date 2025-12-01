@@ -3,4 +3,5 @@
   (lib (name "OPL")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library-master/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
   (lib (name "OPP")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library-master/OPL_Kicad_Library-master/XIAO Family")(options "")(descr ""))
   (lib (name "OPLL")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library-master/OPL_Kicad_Library-master")(options "")(descr ""))
+  (lib (name "wad")(type "KiCad")(uri "C:/Users/chakr/Downloads/wd")(options "")(descr ""))
 )
