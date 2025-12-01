@@ -29,7 +29,7 @@ This was my first time ever using KiCad, and ever designing a PCB! Before this I
 <img width="731" height="711" alt="Screenshot 2025-12-01 151437" src="https://github.com/user-attachments/assets/f7f0e707-3d82-4979-926d-fca9b23ed952" />
 
 ## PCB
-<img width="379" height="572" alt="Screenshot 2025-12-01 151447" src="https://github.com/user-attachments/assets/91b6e113-9f68-4b96-8632-8840ee83aed2" />
+<img width="386" height="560" alt="image" src="https://github.com/user-attachments/assets/aa0c20a8-9bde-412e-8fe4-5510d5a88281" />
 
 ## Case
 <img width="515" height="350" alt="Screenshot 2025-11-30 175513" src="https://github.com/user-attachments/assets/70e33874-a4ce-4b8d-90a9-1d3a40aec9dc" />
