@@ -26,10 +26,10 @@ This was my first time ever using KiCad, and ever designing a PCB! Before this I
 * Bottom Case.stl
 
 ## Schematic
-<img width="815" height="816" alt="Screenshot 2025-11-30 175423" src="https://github.com/user-attachments/assets/5b54b820-c098-4f92-a3b4-8514ee73d9dc" />
+<img width="731" height="711" alt="Screenshot 2025-12-01 151437" src="https://github.com/user-attachments/assets/f7f0e707-3d82-4979-926d-fca9b23ed952" />
 
 ## PCB
-<img width="423" height="590" alt="Screenshot 2025-11-30 175435" src="https://github.com/user-attachments/assets/1b6ffd99-a5d3-4b17-b39b-b576f006591f" />
+<img width="379" height="572" alt="Screenshot 2025-12-01 151447" src="https://github.com/user-attachments/assets/91b6e113-9f68-4b96-8632-8840ee83aed2" />
 
 ## Case
 <img width="515" height="350" alt="Screenshot 2025-11-30 175513" src="https://github.com/user-attachments/assets/70e33874-a4ce-4b8d-90a9-1d3a40aec9dc" />
