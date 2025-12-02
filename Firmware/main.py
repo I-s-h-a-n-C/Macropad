@@ -4,8 +4,14 @@ from kmk.keys import KC
 from kmk.scanners.keypad import KeysScanner
 from kmk.extensions.rgb import RGB
 from kmk.extensions.rgb import AnimationModes
+from kmk.modules.encoder import EncoderHandler
+from digitalio import Pull
 
 keyboard = KMKKeyboard()
+
+# Add encoder module
+encoder_handler = EncoderHandler()
+keyboard.modules = [encoder_handler]
 
 switch_pins = [
     board.GP9,
@@ -40,6 +46,22 @@ keyboard.keymap = [
         KC.ESC,
         KC.SPC
     ]
+]
+
+# Configure encoders
+# First encoder: Volume control (GPIO 1 and 2)
+# Second encoder: Brightness control (GPIO 3 and 4)
+encoder_handler.pins = (
+    (board.GP1, board.GP2, None, False),  # Volume encoder: pin_a, pin_b, button_pin, is_inverted
+    (board.GP3, board.GP4, None, False),  # Brightness encoder
+)
+
+# Define encoder key mappings for each layer
+encoder_handler.map = [
+    (  # Layer 0 (base layer)
+        (KC.VOLU, KC.VOLD),   # Volume encoder: clockwise = volume up, counter-clockwise = volume down
+        (KC.BRIU, KC.BRID),   # Brightness encoder: clockwise = brightness up, counter-clockwise = brightness down
+    ),
 ]
 
 def update_leds():
