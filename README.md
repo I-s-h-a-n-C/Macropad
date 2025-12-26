@@ -1,7 +1,8 @@
 # Macropad
 My macropad for HackClub
 
-<img width="756" height="457" alt="image" src="https://github.com/user-attachments/assets/852c6bad-07f2-43b0-9f58-6e205e8bcbd5" />
+<img width="1008" height="538" alt="image" src="https://github.com/user-attachments/assets/309a50a9-b83a-4189-bb61-d9343c689938" />
+
 
 
 
@@ -34,7 +35,11 @@ This was my first time ever using KiCad, and ever designing a PCB! Before this I
 <img width="422" height="671" alt="image" src="https://github.com/user-attachments/assets/218cb595-9c0d-481d-9379-36cb9a4e7525" />
 
 ## Case
-<img width="661" height="447" alt="image" src="https://github.com/user-attachments/assets/074baef1-4872-423b-b0e2-070a9f385ebe" />
+<img width="715" height="553" alt="image" src="https://github.com/user-attachments/assets/0bf727a6-279e-4617-a6c0-7c4cd0a0e66b" />
+
+## Build
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/fad62606-103d-400d-80a4-a2e3ade71e34" />
+
 
 
 
